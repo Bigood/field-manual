@@ -84,7 +84,7 @@ Running this code should give you something like the following output. Hold stea
   "key":"QmNR2n4zywCV61MeMLB6JwPueAPqheqpfiA4fLPMxouEmQ",
   "value": {
     "hash":"QmNR2n4zywCV61MeMLB6JwPueAPqheqpfiA4fLPMxouEmQ",
-    "instrument":"Accordion"
+    "instrument":"Piano"
   }
 }
 ```
